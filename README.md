@@ -1,123 +1,142 @@
 <div align="center">
 
-  <!-- Animated Typing Header -->
-  <a href="https://github.com/dhanushshetty-17">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&multiline=false&width=800&height=80&lines=Hi%2C+I'm+Dhanush+Shetty+👋;Software+Engineer+%7C+AI+Systems+Builder;I+architect+scalable+full-stack+systems.;I+rigorously+test+and+validate+deployments." alt="Typing SVG Banner" />
-  </a>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=2ECC71&center=true&vCenter=true&width=680&height=60&lines=Dhanush+Shetty;Full-Stack+Engineer+%7C+AI+Systems;Builds+it.+Then+breaks+it.+Then+ships+it." alt="Typing SVG" />
 
-  <p align="center">
-    <b>Building production-ready software with a quality-first mindset.</b><br>
-    📍 Bengaluru, India • 🎓 Information Science Engineering (Class of 2027)[cite: 1, 2]
-  </p>
+<sub>Information Science Engineering · Atria Institute of Technology · Bengaluru, IN · Class of 2027</sub>
 
-  <p align="center">
-    <a href="https://linkedin.com/in/dhanush-shetty-038678222" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:shettydhanush177@gmail.com">
-      <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <img src="https://komarev.com/ghpvc/?username=dhanushshetty-17&label=Profile%20Views&color=0EA5E9&style=for-the-badge" alt="Profile Views" />
-  </p>
+<br/><br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-2ECC71?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dhanush-shetty-038678222)
+[![Email](https://img.shields.io/badge/Email-Reach_Out-2ECC71?style=flat-square&logo=gmail&logoColor=white)](mailto:shettydhanush177@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-dhanushshetty--17-2ECC71?style=flat-square&logo=github&logoColor=white)](https://github.com/dhanushshetty-17)
+
 </div>
 
----
+<br/>
 
-### 🚀 The Elevator Pitch: Why Hire Me?
-Most junior engineers stop when the code "works." I focus on the **entire production lifecycle**[cite: 1, 8]. I architect full-stack SaaS features and AI pipelines[cite: 1, 2], and then I actively break them using positive, negative, edge-case, and adversarial testing before deployment[cite: 2, 7]. 
+## → How I Work
 
-* **🏗️ Builder:** Layered Next.js/React frontends, Node.js/Express backends, and normalized PostgreSQL schemas[cite: 1, 8].
-* **🤖 AI Integrator:** Real-time object detection pipelines (YOLOv8/DeepSORT) and threat classification models[cite: 1, 2].
-* **🛡️ Validator:** Parameterized Postman testing, OWASP API security hardening, and database constraint validation[cite: 2, 7].
+Most projects here follow the same discipline: **design the contract before the code, then try to break it before someone else does.**
 
----
+| | |
+|---|---|
+| **🏗️ Architect first** | Every full-stack build starts with a schema and an API contract — normalized PostgreSQL relations, Mongoose models, or a Flask request-validation layer — before a single route handler is written. |
+| **🧪 Adversarial by default** | Test design isn't an afterthought bolted on at the end. Positive, negative, boundary, and adversarial cases are mapped alongside the feature — webhook failures, JWT expiry, malformed payloads — using Postman collections built to be re-run, not re-written. |
+| **🔐 Security as a constraint, not a checklist** | OWASP API guidelines and Stripe signature verification aren't compliance boxes — they're treated as part of the system's correctness, the same as a passing test. |
 
-### 💻 Tech Stack & Engineering Tools
+<br/>
+
+## → Stack
 
 <div align="center">
-  <p><b>Languages & Core</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,python,js,ts,html,css,bash" alt="Languages" />
-  </a>
 
-  <p><b>Frontend & Backend Architecture</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,flask,nginx" alt="Frameworks" />
-  </a>
+| Category | Tools |
+|:--|:--|
+| **Languages** | ![Java](https://img.shields.io/badge/Java-flat-square?style=flat-square&logo=openjdk&logoColor=white&color=2ECC71) ![Python](https://img.shields.io/badge/Python-flat-square?style=flat-square&logo=python&logoColor=white&color=2ECC71) ![JavaScript](https://img.shields.io/badge/JavaScript-flat-square?style=flat-square&logo=javascript&logoColor=white&color=2ECC71) ![TypeScript](https://img.shields.io/badge/TypeScript-flat-square?style=flat-square&logo=typescript&logoColor=white&color=2ECC71) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-flat-square?style=flat-square&logo=react&logoColor=white&color=2ECC71) ![Next.js](https://img.shields.io/badge/Next.js-flat-square?style=flat-square&logo=nextdotjs&logoColor=white&color=2ECC71) ![HTML5](https://img.shields.io/badge/HTML5-flat-square?style=flat-square&logo=html5&logoColor=white&color=2ECC71) ![CSS3](https://img.shields.io/badge/CSS3-flat-square?style=flat-square&logo=css3&logoColor=white&color=2ECC71) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-flat-square?style=flat-square&logo=nodedotjs&logoColor=white&color=2ECC71) ![Express](https://img.shields.io/badge/Express-flat-square?style=flat-square&logo=express&logoColor=white&color=2ECC71) ![Flask](https://img.shields.io/badge/Flask-flat-square?style=flat-square&logo=flask&logoColor=white&color=2ECC71) ![JWT](https://img.shields.io/badge/JWT-flat-square?style=flat-square&logo=jsonwebtokens&logoColor=white&color=2ECC71) |
+| **AI / Vision** | ![Scikit-learn](https://img.shields.io/badge/scikit--learn-flat-square?style=flat-square&logo=scikitlearn&logoColor=white&color=2ECC71) ![OpenCV](https://img.shields.io/badge/OpenCV-flat-square?style=flat-square&logo=opencv&logoColor=white&color=2ECC71) ![NumPy](https://img.shields.io/badge/NumPy-flat-square?style=flat-square&logo=numpy&logoColor=white&color=2ECC71) ![PyTorch-style DL](https://img.shields.io/badge/Neural_Nets-flat-square?style=flat-square&color=2ECC71) |
+| **Data & Infra** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-flat-square?style=flat-square&logo=postgresql&logoColor=white&color=2ECC71) ![MongoDB](https://img.shields.io/badge/MongoDB-flat-square?style=flat-square&logo=mongodb&logoColor=white&color=2ECC71) ![Docker](https://img.shields.io/badge/Docker-flat-square?style=flat-square&logo=docker&logoColor=white&color=2ECC71) ![Git](https://img.shields.io/badge/Git-flat-square?style=flat-square&logo=git&logoColor=white&color=2ECC71) |
+| **QA & Tooling** | ![Postman](https://img.shields.io/badge/Postman-flat-square?style=flat-square&logo=postman&logoColor=white&color=2ECC71) ![Playwright](https://img.shields.io/badge/Playwright-flat-square?style=flat-square&logo=playwright&logoColor=white&color=2ECC71) ![OWASP](https://img.shields.io/badge/OWASP-flat-square?style=flat-square&logo=owasp&logoColor=white&color=2ECC71) |
 
-  <p><b>Databases, DevOps & Testing</b></p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,docker,git,github,postman" alt="Tools" />
-  </a>
 </div>
 
----
+<br/>
 
-### 🛠️ Featured Engineering Work
-*Click the dropdowns to view architecture details and testing workflows.*
+## → Featured Engineering
 
 <details>
-<summary><b>💳 Freelancer Invoice & Payment Tracker (Micro-SaaS)</b></summary>
-<br>
+<summary><b>💳 Micro-SaaS — Freelancer Invoice & Payment Tracker</b></summary>
+<br/>
 
-*A full-stack platform managing automated invoice lifecycles and real-time payment reconciliation[cite: 1, 4].*
-* **Architecture:** Engineered a layered system with a Next.js client, Express REST API, and PostgreSQL data layer[cite: 1, 8].
-* **Integrations:** Built Stripe API webhooks with signature verification, automated PDF generation, and transactional email triggers[cite: 1, 8].
-* **Quality & Testing:** Validated via automated Postman collections covering webhook edge cases, JWT expiry handling, and database constraint boundaries[cite: 1, 7].
-* **Tech:** `Next.js` `Node.js` `PostgreSQL` `Stripe` `Docker` `Postman`[cite: 1, 7]
+A full-stack billing platform replacing spreadsheet workflows with a first-class invoice lifecycle (draft → sent → paid → overdue).
+
+- **Architecture:** Next.js client → Express REST API → PostgreSQL, with a normalized relational schema for users, clients, and invoices. JWT + bcrypt auth over HTTP-only cookies, scoped by role-based access control.
+- **Integration:** Stripe webhooks with signature verification keep invoice state in sync with actual payment events instead of trusting client-reported status — followed by automated server-side PDF generation and email delivery.
+- **Quality & Testing:** Postman collections covering the full request lifecycle (`checkout → webhook → state transition`), including JWT expiry edge cases and database constraint violations.
+
+`Next.js` `Node.js` `Express` `PostgreSQL` `Stripe` `Docker` `Postman`
+
+[→ Repository](https://github.com/dhanushshetty-17/Micro-SaaS)
+
 </details>
 
 <details>
-<summary><b>🛡️ AI Threat Classification REST API</b></summary>
-<br>
+<summary><b>🛡️ Apex-Validator — Phishing & URL Threat Detector</b></summary>
+<br/>
 
-*A production-grade backend service scoring inbound URLs and emails for security risks[cite: 2, 8].*
-* **Architecture:** Standalone Flask REST API designed around strict request validation and OWASP API security guidelines[cite: 1, 8].
-* **AI Validation:** Trained and evaluated Scikit-learn models against real-world labeled data for high-accuracy threat detection[cite: 2, 7].
-* **Quality & Testing:** Designed positive, boundary, and adversarial test suites to ensure the endpoint safely rejects malformed payloads[cite: 1, 2].
-* **Tech:** `Python` `Flask` `Scikit-learn` `OWASP` `Postman`[cite: 2, 7]
+A risk-scoring system for inbound emails and URLs, built around explainable output rather than a black-box classification.
+
+- **Architecture:** REST service with a dedicated request-validation and input-sanitization layer, designed so every rejected payload returns a consistent, structured error rather than an opaque failure.
+- **AI Layer:** Scikit-learn classification models trained and benchmarked against labeled real-world data, with output paired with human-readable risk explanations and confidence scoring.
+- **Quality & Testing:** Positive, negative, boundary, and adversarial test scenarios validated against OWASP API security guidelines before endpoints were considered release-ready.
+
+`JavaScript` `Python` `Scikit-learn` `REST APIs` `Postman`
+
+[→ Repository](https://github.com/dhanushshetty-17/Apex-Validator)
+
 </details>
 
 <details>
-<summary><b>👁️ Real-Time Smart Surveillance Pipeline</b></summary>
-<br>
+<summary><b>👁️ NEXUS — Real-Time AI Security & Threat Detection</b></summary>
+<br/>
 
-*A computer vision threat detection and multi-object tracking pipeline processing live video streams[cite: 2, 4].*
-* **Architecture:** Integrated YOLOv8 for detection and DeepSORT to maintain persistent object identities across video frames[cite: 1, 8].
-* **Optimization:** Used OpenCV and Flask/PyQt5 to process streams and generate real-time automated alerts[cite: 2, 4].
-* **Quality & Testing:** Benchmarked detection accuracy against live feeds to actively reduce false-positive rates and edge-case failures[cite: 2, 7].
-* **Tech:** `Python` `YOLOv8` `DeepSORT` `OpenCV` `Flask`[cite: 2, 7]
+A multi-modal surveillance engine combining computer vision, audio classification, and generative AI to automate threat detection.
+
+- **Architecture:** YOLOv8 for detection, DeepSORT for maintaining consistent object identity across frames, OpenCV for stream processing, with PyQt5 driving the live operator interface.
+- **Signal Layer:** Extends beyond vision alone — audio classification adds a second detection channel, with generative AI summarizing alerts into human-readable incident reports.
+- **Quality & Testing:** Detection accuracy and alert logic validated across live camera feeds to actively reduce false positives and missed detections at the boundary conditions.
+
+`Python` `YOLOv8` `DeepSORT` `OpenCV` `PyQt5`
+
+[→ Repository](https://github.com/dhanushshetty-17/NEXUS-AI-Security-System)
+
 </details>
 
 <details>
-<summary><b>🎮 "Almost There" — Full-Stack Browser Game</b></summary>
-<br>
+<summary><b>🎮 Almost-There — Full-Stack Browser Game</b></summary>
+<br/>
 
-*A component-based React application backed by persistent user sessions and real-time leaderboards[cite: 1, 8].*
-* **Architecture:** Modeled Mongoose schemas and built RESTful Express endpoints for client-side telemetry and ranking writes[cite: 1, 8].
-* **Quality & Testing:** Verified leaderboard data integrity under heavy repeated writes and debugged session traces using Browser DevTools[cite: 1, 7].
-* **Tech:** `React.js` `Node.js` `Express.js` `MongoDB`[cite: 1, 7]
+A component-based game platform built around persistent sessions and a live, competitive leaderboard.
+
+- **Architecture:** React frontend backed by an Express service layer; game, session, and leaderboard entities modeled in MongoDB via Mongoose with clear request/response contracts.
+- **Data Integrity:** Leaderboard writes verified under repeated concurrent updates before endpoints were wired into the frontend.
+- **Quality & Testing:** API correctness for auth, leaderboard, and telemetry routes traced and debugged using Browser DevTools — the same instinct now extending into Playwright automation.
+
+`React.js` `Node.js` `Express` `MongoDB` `Mongoose`
+
+[→ Repository](https://github.com/dhanushshetty-17/Almost-There)
+
 </details>
 
----
+<details>
+<summary><b>🧠 FashionMNIST-Neural-Models-Lab — Model Benchmarking Platform</b></summary>
+<br/>
 
-### 📊 GitHub Telemetry
+A from-scratch platform for training and comparing deep learning architectures without relying on high-level framework abstractions.
+
+- **Architecture:** MLPs, Autoencoders, and RBMs implemented directly in Python/NumPy — classification, reconstruction, and unsupervised feature learning on Fashion-MNIST.
+- **Evaluation:** Experiment tracking against accuracy metrics and confusion matrices, built to make model comparisons reproducible rather than one-off.
+
+`Python` `NumPy` `Deep Learning` `Neural Networks`
+
+[→ Repository](https://github.com/dhanushshetty-17/FashionMNIST-Neural-Models-Lab)
+
+</details>
+
+<br/>
+
+## → Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dhanushshetty-17&show_icons=true&theme=transparent&hide_border=true&title_color=0EA5E9&icon_color=0EA5E9&text_color=c9d1d9&bg_color=0d1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushshetty-17&layout=compact&theme=transparent&hide_border=true&title_color=0EA5E9&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" width="48%" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=dhanushshetty-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanushshetty-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ECC71&text_color=c9d1d9" />
+
 </div>
 
-<!-- Animated Contribution Graph (Snake) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dhanushshetty-17/dhanushshetty-17/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dhanushshetty-17/dhanushshetty-17/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dhanushshetty-17/dhanushshetty-17/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
+<br/>
 
----
 <div align="center">
-  <i>Let's build something scalable. Reach out via <a href="mailto:shettydhanush177@gmail.com">Email</a> or <a href="https://linkedin.com/in/dhanush-shetty-038678222">LinkedIn</a>.</i>
+<sub>Open to full-stack, backend, SDET, and AI-evaluation roles · Reach out via <a href="mailto:shettydhanush177@gmail.com">email</a> or <a href="https://linkedin.com/in/dhanush-shetty-038678222">LinkedIn</a></sub>
 </div>

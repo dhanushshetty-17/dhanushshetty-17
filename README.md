@@ -55,18 +55,14 @@ const dhanush = {
 
 ## → Repositories
 
-<div align="center">
-
-<a href="https://github.com/dhanushshetty-17/Micro-SaaS"><img height="150" src="https://github-readme-stats-sooty-eight.vercel.app/api/pin/?username=dhanushshetty-17&repo=Micro-SaaS&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9" /></a>
-<a href="https://github.com/dhanushshetty-17/Apex-Validator"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushshetty-17&repo=Apex-Validator&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9" /></a>
-
-<a href="https://github.com/dhanushshetty-17/NEXUS-AI-Security-System"><img height="150" src="https://github-readme-stats-sooty-eight.vercel.app/api/pin/?username=dhanushshetty-17&repo=NEXUS-AI-Security-System&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9" /></a>
-<a href="https://github.com/dhanushshetty-17/Almost-There"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushshetty-17&repo=Almost-There&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9" /></a>
-
-<a href="https://github.com/dhanushshetty-17/FashionMNIST-Neural-Models-Lab"><img height="150" src="https://github-readme-stats-sooty-eight.vercel.app/api/pin/?username=dhanushshetty-17&repo=FashionMNIST-Neural-Models-Lab&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9" /></a>
-<a href="https://github.com/dhanushshetty-17/Tnsif"><img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=dhanushshetty-17&repo=Tnsif&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9" /></a>
-
-</div>
+| Repo | Description | Stack | |
+|---|---|---|---|
+| [**Micro-SaaS**](https://github.com/dhanushshetty-17/Micro-SaaS) | Freelancer invoice & payment tracker | ![TypeScript](https://img.shields.io/badge/-TypeScript-2ECC71?style=flat-square) | ![Stars](https://img.shields.io/github/stars/dhanushshetty-17/Micro-SaaS?style=flat-square&color=2ECC71) |
+| [**Apex-Validator**](https://github.com/dhanushshetty-17/Apex-Validator) | Full-stack phishing & URL threat detector | ![JavaScript](https://img.shields.io/badge/-JavaScript-2ECC71?style=flat-square) | ![Stars](https://img.shields.io/github/stars/dhanushshetty-17/Apex-Validator?style=flat-square&color=2ECC71) |
+| [**NEXUS-AI-Security-System**](https://github.com/dhanushshetty-17/NEXUS-AI-Security-System) | Real-time AI security & threat detection engine | ![Python](https://img.shields.io/badge/-Python-2ECC71?style=flat-square) | ![Stars](https://img.shields.io/github/stars/dhanushshetty-17/NEXUS-AI-Security-System?style=flat-square&color=2ECC71) |
+| [**Almost-There**](https://github.com/dhanushshetty-17/Almost-There) | Full-stack interactive game with leaderboard | ![JavaScript](https://img.shields.io/badge/-JavaScript-2ECC71?style=flat-square) | ![Stars](https://img.shields.io/github/stars/dhanushshetty-17/Almost-There?style=flat-square&color=2ECC71) |
+| [**FashionMNIST-Neural-Models-Lab**](https://github.com/dhanushshetty-17/FashionMNIST-Neural-Models-Lab) | Deep learning models built from scratch on NumPy | ![Python](https://img.shields.io/badge/-Python-2ECC71?style=flat-square) | ![Stars](https://img.shields.io/github/stars/dhanushshetty-17/FashionMNIST-Neural-Models-Lab?style=flat-square&color=2ECC71) |
+| [**Tnsif**](https://github.com/dhanushshetty-17/Tnsif) | Java project | ![Java](https://img.shields.io/badge/-Java-2ECC71?style=flat-square) | ![Stars](https://img.shields.io/github/stars/dhanushshetty-17/Tnsif?style=flat-square&color=2ECC71) |
 
 <br/>
 
@@ -157,9 +153,14 @@ A from-scratch platform for training and comparing deep learning architectures w
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats-sooty-eight.vercel.app/api?username=dhanushshetty-17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ECC71&icon_color=2ECC71&text_color=c9d1d9&count_private=true" />
-<img height="165" src="https://github-readme-stats-sooty-eight.vercel.app/api/top-langs/?username=dhanushshetty-17&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=2ECC71&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushshetty-17&theme=tokyonight&hide_border=true&background=00000000&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" />
 
+<br/><br/>
+
+![Profile Views](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/dhanushshetty-17&label=Public%20Repos&query=$.public_repos&style=flat-square&color=2ECC71)
+![Followers](https://img.shields.io/github/followers/dhanushshetty-17?label=Followers&style=flat-square&color=2ECC71)
+
+</div>
 <br/>
 
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushshetty-17&theme=tokyonight&hide_border=true&background=00000000&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" />

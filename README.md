@@ -161,14 +161,3 @@ A from-scratch platform for training and comparing deep learning architectures w
 ![Followers](https://img.shields.io/github/followers/dhanushshetty-17?label=Followers&style=flat-square&color=2ECC71)
 
 </div>
-<br/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanushshetty-17&theme=tokyonight&hide_border=true&background=00000000&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" />
-
-</div>
-
-<br/>
-
-<div align="center">
-<sub>Open to full-stack, backend, SDET, and AI-evaluation roles · Reach out via <a href="mailto:shettydhanush177@gmail.com">email</a> or <a href="https://linkedin.com/in/dhanush-shetty-038678222">LinkedIn</a></sub>
-</div>
